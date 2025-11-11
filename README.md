@@ -40,3 +40,64 @@ This project was customized and developed by **Gaganpreet Singh** as part of the
 
 ---
 
+## 🧠 How to Run the Project Locally
+
+You can run this project on your own computer using **Node.js** and **npm**.
+
+### 🪜 Steps:
+
+1. **Clone this repository**
+   ```bash
+   git clone https://github.com/Gaganpreet0001/Capstone-Project-Food-Restaurant.git
+Navigate to the project folder
+
+bash
+Copy code
+cd Capstone-Project-Food-Restaurant
+Install dependencies
+
+bash
+Copy code
+npm install
+Run the development server
+
+bash
+Copy code
+npm run dev
+Open in your browser
+
+arduino
+Copy code
+http://localhost:3000
+(If port 3000 is in use, the app will automatically run on port 3001.)
+
+💡 Tip:
+When you save any changes in VS Code, the browser will automatically reload — no need to restart the server.
+
+🌐 How to Deploy (Run Online)
+You can easily deploy this full-stack Next.js project for free using Vercel (recommended) or Netlify.
+
+🚀 Deploy Using Vercel (Recommended)
+Go to https://vercel.com
+
+Click “Import Project” → “Import GitHub Repository”
+
+Select your repo:
+
+nginx
+Copy code
+Gaganpreet0001 / Capstone-Project-Food-Restaurant
+Vercel will automatically detect it’s a Next.js project
+
+Click Deploy
+
+After deployment, you’ll get a live link like:
+
+arduino
+Copy code
+https://capstone-project-food-restaurant.vercel.app
+✅ Done!
+Your site is now live and accessible from anywhere.
+
+---
+
