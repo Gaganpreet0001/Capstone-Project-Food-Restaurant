@@ -38,24 +38,24 @@ const Carousel = () => {
       <Slider {...settings}>
         <div>
           <div className="mt-48  text-white flex flex-col items-start gap-y-10">
-            <Title addClass="text-6xl">GPS Restaurant</Title>
+            <Title addClass="text-6xl">UBI's Restaurant</Title>
             <p className="text-sm sm:w-2/5 w-full">
-              Doloremque, itaque aperiam facilis rerum, commodi, temporibus
-              sapiente ad mollitia laborum quam quisquam esse error unde.
-              Tempora ex doloremque, labore, sunt repellat dolore, iste magni
-              quos nihil ducimus libero ipsam.
+              Every meal begins with a spark of passion — a whisper of aroma dancing through the air.
+Each plate tells a story, handcrafted with love and seasoned with care.
+From the simmering pot to your waiting smile, flavor finds its way home.
+Here, food isn’t just eaten — it’s felt, shared, and remembered.
             </p>
             <button className="btn-primary">Order Now</button>
           </div>
         </div>
         <div>
           <div className="relative text-white top-48 flex flex-col items-start gap-y-10">
-            <Title addClass="text-6xl">GPS Restaurant</Title>
+            <Title addClass="text-6xl">UBI's Restaurant</Title>
             <p className="text-sm sm:w-2/5 w-full">
-              Doloremque, itaque aperiam facilis rerum, commodi, temporibus
-              sapiente ad mollitia laborum quam quisquam esse error unde.
-              Tempora ex doloremque, labore, sunt repellat dolore, iste magni
-              quos nihil ducimus libero ipsam.
+              Every meal begins with a spark of passion — a whisper of aroma dancing through the air.
+Each plate tells a story, handcrafted with love and seasoned with care.
+From the simmering pot to your waiting smile, flavor finds its way home.
+Here, food isn’t just eaten — it’s felt, shared, and remembered.
             </p>
             <button className="btn-primary">Order Now</button>
           </div>

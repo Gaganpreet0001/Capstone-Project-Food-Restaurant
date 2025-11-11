@@ -5,13 +5,12 @@ const CustomerItem = ({ imgSrc }) => {
     <div className="mt-5 mx-4">
       <div className="p-6 bg-secondary text-white rounded-[5px]">
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam
+          Absolutely loved the food! Every dish was full of flavor and perfectly cooked.
+The staff were friendly, and the atmosphere made the whole experience even better
         </p>
         <div className="flex flex-col mt-4">
-          <span className="text-lg font-semibold">Moana Michell</span>
-          <span className="text-[15px]">magna aliqua</span>
+          <span className="text-lg font-semibold">GPS</span>
+          <span className="text-[15px]"></span>
         </div>
       </div>
 
