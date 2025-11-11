@@ -3,6 +3,49 @@
 A **Full-Stack Food Ordering and Restaurant Management Web Application** built using **Next.js**, **React**, **MongoDB**, and **Tailwind CSS**.  
 This project was customized and developed by **Gaganpreet Singh** as part of the Capstone Project.
 
+## 📸 Screenshot Preview
+
+### 🏠 Homepage
+<p align="center">
+  <img src="./public/images/homepage.png" width="80%" alt="Homepage Screenshot" />
+</p>
+
+### 🍕 Menu Page
+<p align="center">
+  <img src="./public/images/menu.png" width="80%" alt="Menu Page Screenshot" />
+</p>
+
+### 👨‍🍳 About Section
+<p align="center">
+  <img src="./public/images/about.png" width="80%" alt="About Section Screenshot" />
+</p>
+
+### 📅 Book A Table
+<p align="center">
+  <img src="./public/images/reservation.png" width="80%" alt="Reservation Screenshot" />
+</p>
+
+### 💬 Customer Reviews
+<p align="center">
+  <img src="./public/images/reviews.png" width="80%" alt="Customer Reviews Screenshot" />
+</p>
+
+### 🧑‍💻 Admin Panel
+#### 🥗 Products
+<p align="center">
+  <img src="./public/images/admin-products.png" width="80%" alt="Admin Products Screenshot" />
+</p>
+
+#### 🍴 Categories
+<p align="center">
+  <img src="./public/images/admin-categories.png" width="80%" alt="Admin Categories Screenshot" />
+</p>
+
+#### 🧾 Orders
+<p align="center">
+  <img src="./public/images/admin-orders.png" width="80%" alt="Admin Orders Screenshot" />
+</p>
+
 ---
 
 ## 🚀 Features
